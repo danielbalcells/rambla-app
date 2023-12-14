@@ -1,1 +1,1 @@
-iOS App. I have no experience coding for iOS and used ChatGPT to write most of the code in this repo, so I apologize in advance for the mess. This was the only way to get started quickly :)
+iOS App for [Rambla](https://danibalcells.com/2023/10/17/rambla/). I have no experience coding for iOS and used ChatGPT to write most of the code in this repo, so I apologize in advance for the mess. This was the only way to get started quickly :)
